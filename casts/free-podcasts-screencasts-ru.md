@@ -95,9 +95,10 @@
 
 ### .NET
 
-* [DotNet & More](https://more.dotnet.ru) - Александр Кугушев и Артём Акуляков (Podcast)
+* [DotNet & More](https://dotnetmore.mave.digital) - Александр Кугушев, Артём Акуляков и Иван Крючков (Podcast)
 * [RadioDotNet](https://radio.dotnet.ru) - Анатолий Кулаков и Игорь Лабутин (Podcast)
 * [Solo on .NET](https://youtube.com/playlist?list=PLAFX7TSEV7SOqEQKnrrFiV7bUY8kN5Qof) - Дмитрий Нестерук (Podcast)
+* [BookClub DotNet](https://bookclub.dotnet.ru) - Роман Щербаков и Андрей Медведев (Podcast)
 
 
 ### Node.js
